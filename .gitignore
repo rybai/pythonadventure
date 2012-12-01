@@ -1,2 +1,24 @@
 
 .DS_Store
+
+*.snap
+
+Project/.pydevproject
+
+.metadata/.log
+
+*.pydevinfo
+
+.metadata/.plugins/org.eclipse.core.resources/.projects/Project/org.python.pydev/v1_astmanager/modulesKeys
+
+.metadata/.plugins/org.eclipse.core.resources/.projects/Project/org.python.pydev/v1_astmanager/pythonpath
+
+*.index
+
+*.dat
+
+*.history
+
+*.prefs
+
+Project/.project
